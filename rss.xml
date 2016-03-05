@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[darthvid]]></title>
         <description><![CDATA[darthvid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://darthvid.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 15:24:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 15:53:30 GMT</lastBuildDate>
+        <atom:link href="http://darthvid.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Still figuring this thing out and doing configuration stuff...</p>]]></description>
+            <link>http://darthvid.com/480646b5-a8e3-4ad5-8875-27b0fada6ef4/index.html</link>
+            <guid isPermaLink="false">480646b5-a8e3-4ad5-8875-27b0fada6ef4</guid>
+            <pubDate>Sat, 05 Mar 2016 15:53:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello world!</p>]]></description>
-            <link>undefined395cb42c-3ef9-46b4-b69b-5549f606aa47/index.html</link>
+            <link>http://darthvid.com/395cb42c-3ef9-46b4-b69b-5549f606aa47/index.html</link>
             <guid isPermaLink="false">395cb42c-3ef9-46b4-b69b-5549f606aa47</guid>
             <pubDate>Sat, 05 Mar 2016 15:24:31 GMT</pubDate>
         </item>
