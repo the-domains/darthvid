@@ -1,25 +1,8 @@
-color:
-  brandStrength: 0.1764494578819722
-  saturation: 0.7697878680191934
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  lightness: 0.1385578240733594
-  rhythmicContrast: 0.1443410019855946
-title: darthvid
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  version: null
-  bucket: null
-  domain: null
+name: darthvid
 favicon: null
 layout_spectrum: 0.60308
+typography_spectrum: 0.35271265800111
+title: darthvid
 collections:
   - index:
       navigable: true
@@ -32,10 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-name: darthvid
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.35271265800111
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1764494578819722
+  lightness: 0.1385578240733594
+  saturation: 0.7697878680191934
+  rhythmicContrast: 0.1443410019855946
+purpose: []
