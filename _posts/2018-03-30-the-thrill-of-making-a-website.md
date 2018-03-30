@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: '#だがしかし'
-dateModified: '2018-03-30T05:07:01.734Z'
-datePublished: '2018-03-30T05:07:02.530Z'
+dateModified: '2018-03-30T05:07:03.612Z'
+datePublished: '2018-03-30T05:07:04.112Z'
 title: The thrill of making a website…
 author:
   - name: Tomi90 Net
