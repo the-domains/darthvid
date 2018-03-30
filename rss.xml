@@ -4,9 +4,16 @@
         <description><![CDATA[darthvid]]></description>
         <link>http://darthvid.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Mar 2018 05:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Mar 2018 06:03:16 GMT</lastBuildDate>
         <atom:link href="http://darthvid.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Mar 2018 05:07:03 GMT</pubDate>
+        <pubDate>Fri, 30 Mar 2018 06:03:12 GMT</pubDate>
+        <item>
+            <title><![CDATA[The thrill of making a website…]]></title>
+            <description><![CDATA[<h1>The thrill of making a website…</h1>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F8lBY1jnY02s%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8lBY1jnY02s&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8lBY1jnY02s%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>,<p>#だがしかし</p>]]></description>
+            <link>https://www.youtube.com/watch?v=8lBY1jnY02s</link>
+            <guid isPermaLink="false">2d88c1ab-6aee-4500-9d05-03a902ddb3b2</guid>
+            <pubDate>Fri, 30 Mar 2018 05:06:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Javascript is civilization! #だがしかし]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-vlbO6bakH4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-vlbO6bakH4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-vlbO6bakH4%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/chibatori/status/845482966104993793</link>
             <guid isPermaLink="false">0888c2bd-0793-420b-b62e-d80431ff092b</guid>
             <pubDate>Sat, 25 Mar 2017 09:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MdN (Macintosh designers Network) 2017年5月号]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dba0413d-84fd-44f2-aaed-094cc4407105.jpg" title="MdN (Macintosh designers Network) 2017&#x5E74;5&#x6708;&#x53F7;" alt="&#x7279;&#x96C6;:TRIGGER&mdash;&#x82E5;&#x304D;&#x30A2;&#x30CB;&#x30E1;&#x30B9;&#x30BF;&#x30B8;&#x30AA;&#x300C;&#x30C8;&#x30EA;&#x30AC;&#x30FC;&#x300D;&#x306E;5&#x5E74;&#x534A;&#x53F2;">]]></description>
-            <link>https://twitter.com/mdn_hikari/status/844855608796856321</link>
-            <guid isPermaLink="false">95c081fb-e2f8-4fcb-81f1-ed0530b9d933</guid>
-            <pubDate>Sat, 25 Mar 2017 08:41:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
